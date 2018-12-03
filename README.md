@@ -3,7 +3,7 @@
 The official FoxMC **Beta** Source Code. 
 
 ## What does it have?
-* Anitcheat 
+* Anitcheat (very powerful!)
 * BungeeBridge
 * Custom Hub
 * Speedbuilders
