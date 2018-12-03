@@ -1,0 +1,7 @@
+proxyName: proxy1
+redis:
+  host: localhost
+database:
+  url: mysql://localhost/dbname
+  user: username
+  password: password

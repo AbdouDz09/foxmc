@@ -1,0 +1,4 @@
+name: FoxAPI
+version: ${project.version}
+author: Rellynn
+main: me.rellynn.foxmc.bungeeapi.BridgePlugin

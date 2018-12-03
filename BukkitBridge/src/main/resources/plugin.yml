@@ -1,0 +1,14 @@
+name: FoxAPI
+version: ${project.version}
+author: Rellynn
+main: me.rellynn.foxmc.bukkitapi.BridgePlugin
+commands:
+  lag:
+    description: Print lag informations
+    aliases: [ping]
+  menu:
+    description: Open a menu
+    usage: /<command> <name>
+  resourcepack:
+    description: Print the resourcepack help
+    aliases: [texturepack]

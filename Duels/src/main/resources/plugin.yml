@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: Rellynn
+main: me.rellynn.foxmc.games.DuelsPlugin
+depend: [GameAPI]

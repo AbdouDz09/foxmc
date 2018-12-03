@@ -1,0 +1,12 @@
+games:
+  duels:
+  - §71 VS 1
+  ffa:
+  - §7Free For All
+  twars:
+  - §7TreeWars
+  sbuilders:
+  - §7SpeedBuilders
+messageOnJoin:
+- §7Welcome §b<player> §7on FoxMC!
+spawnLocation: world_0_100_0_0_0

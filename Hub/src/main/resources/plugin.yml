@@ -1,0 +1,25 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: Rellynn
+main: me.rellynn.foxmc.hub.HubPlugin
+depend: [FoxAPI]
+commands:
+  setspawn:
+    description: Set the spawn location
+  test:
+    description: Test command
+  sleepingmode:
+    description: Toggle lobby sleeping mode
+  votecrate:
+    description: Create a vote crate
+  npc:
+    description: Create and manage NPC
+  spawn:
+    description: Teleport you to the spawn
+  fly:
+    description: Toggle your fly ability
+  stats:
+    description: Show your statistics
+  fw:
+    description: Launch a firework
+    aliases: [firework]
