@@ -12,4 +12,4 @@ The official FoxMC **Beta** Source Code.
 * Treewars
  
  ## Why is it here?
- Well else than private reasons, to let people/devs how the beta version of FoxMC worked.
+to let people/devs how the beta version of FoxMC worked.
